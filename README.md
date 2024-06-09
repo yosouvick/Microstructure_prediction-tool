@@ -72,16 +72,12 @@ Email: souvicksadhukhan08@gmail.com
 
 ## Images
 #1.
-![image](https://github.com/royanurag005/Microstructure_prediction-tool/assets/97970838/ff8a0947-0a1b-4d39-8c3b-0c73dfe95fea)
-#2.
-![image](https://github.com/royanurag005/Microstructure_prediction-tool/assets/97970838/dbe1d636-a114-4b4c-a066-9d3644c50591)
-#3.
 ![image](https://github.com/royanurag005/Microstructure_prediction-tool/assets/97970838/e16effae-61e6-4d07-aeb7-596ec3b00f80)
-#4.
+#2.
 ![image](https://github.com/royanurag005/Microstructure_prediction-tool/assets/97970838/634a206a-5107-46ca-b02e-4d89349e686c)
-#5.
+#3.
 ![image](https://github.com/royanurag005/Microstructure_prediction-tool/assets/97970838/8c3612ef-d40b-4b7f-9373-06423fa48086)
-#6.
+#4.
 ![image](https://github.com/royanurag005/Microstructure_prediction-tool/assets/97970838/b5e881e7-c287-49fe-9a2a-cc943a11d634)
 
 
