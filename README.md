@@ -66,8 +66,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Contact
 For any inquiries, please contact:
 
-Souvick Sadhukhan
-GitHub: @yosouvick
+Souvick Sadhukhan\n
+GitHub: @yosouvick\n
 Email: souvicksadhukhan08@gmail.com
 
 ## Images
